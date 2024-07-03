@@ -8,5 +8,7 @@ This repository contains an Email/SMS Spam Detection System. The system classifi
 # Features
 
 **Spam Classification:** Classifies messages as spam or not spam.
+
 **Machine Learning:** Utilizes various machine learning algorithms for accurate predictions.
+
 **Interactive User Interface:** Provides a simple and user-friendly interface for interacting with the spam detection system.
