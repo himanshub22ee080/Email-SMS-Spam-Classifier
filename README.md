@@ -3,7 +3,7 @@
 # Overview
 
 This repository contains an Email/SMS Spam Detection System. The system classifies messages as either spam or not spam using machine learning techniques. The dataset used for this project is the SMS Spam Collection Dataset from Kaggle, which you can find here
-<a href="https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset" target="_blank">Dataset Link</a>.
+<a href="https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset" target="blank">Dataset Link</a>.
 
 # Features
 
